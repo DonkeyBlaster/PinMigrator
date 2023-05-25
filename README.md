@@ -7,4 +7,4 @@ Clone the repo, then run `pip install -r requirements.txt` to install dependenci
 Rename `.env_example` to `.env` and place bot token and pin channel ID there.
 Then run `python3 main.py` to start the bot.
 
-Built on Python 3.10, untested on other versions.
+Built on Python 3.10, works on 3.11, untested on other versions.
